@@ -1,0 +1,7 @@
+llama-index-llms-huggingface
+llama-index
+llama-index-embeddings-huggingface
+llama-index-embeddings-instructor
+pdf2image 
+transformers
+poppler-utils
